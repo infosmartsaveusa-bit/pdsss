@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic-settings
+python-multipart
+tldextract
+validators
+opencv-python
+pyzbar
+Pillow
+numpy
+python-dateutil
+python-whois
+playwright
+sqlalchemy
